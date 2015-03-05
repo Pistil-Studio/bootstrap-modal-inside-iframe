@@ -1,4 +1,4 @@
-Boostrap modal inside iframe v1
+Bootstrap modal inside iframe v1
 ===============================
 
 Le script ajuste le positionnement de la modal quand cette dernière est affichée à l'intérieur d'une Iframe. 
