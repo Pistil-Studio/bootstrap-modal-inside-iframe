@@ -45,7 +45,7 @@ var computeFrameOffset = function(win, dims) {
 
 $(document).ready(function(){
 
-	$('.modal').on('shown.bs.modal', function (e) {
+	$('.modal').on('show.bs.modal', function (e) {
 
 		// Do nothing if not in iframe
 		if (top.location == self.document.location) return;
